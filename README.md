@@ -53,13 +53,12 @@ Estou em **transição estratégica de carreira** para a Tecnologia da Informaç
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoSilvaAmorim&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSilvaAmorim&layout=compact&theme=tokyonight" />
-</p>
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoSilvaAmorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSilvaAmorim&layout=compact&theme=dracula"/>
+</div>
 ---
 
 ## 🚀 Minha Jornada
