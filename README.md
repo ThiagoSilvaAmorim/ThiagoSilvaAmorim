@@ -52,13 +52,11 @@ Estou em **transição estratégica de carreira** para a Tecnologia da Informaç
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
-
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoSilvaAmorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSilvaAmorim&layout=compact&theme=dracula"/>
-</div>
+[![Estatísticas do Thiago](https://github-readme-stats.vercel.app/api?username=ThiagoSilvaAmorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/ThiagoSilvaAmorim)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSilvaAmorim&layout=compact&theme=dracula)](https://github.com/ThiagoSilvaAmorim)
 ---
 
 ## 🚀 Minha Jornada
