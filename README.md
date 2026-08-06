@@ -100,8 +100,16 @@ Hoje curso **Análise e Desenvolvimento de Sistemas (UNINTER)** e aplico o apren
 ## 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoSilvaAmorim&show_icons=true&theme=transparent&hide_border=true&hide_title=true&icon_color=1f3a5f&text_color=475569" width="48%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSilvaAmorim&layout=compact&theme=transparent&hide_border=true&title_color=1f3a5f&text_color=475569&card_width=320" width="42%" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoSilvaAmorim&show_icons=true&hide_title=true&hide_border=true&theme=transparent&bg_color=transparent&icon_color=1f3a5f&title_color=1f3a5f&text_color=475569&cache_seconds=86400" width="48%" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSilvaAmorim&layout=donut&langs_count=6&custom_title=Linguagens&theme=transparent&bg_color=transparent&hide_border=true&title_color=1f3a5f&text_color=475569&cache_seconds=86400" width="42%" alt="Linguagens mais usadas" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ThiagoSilvaAmorim&theme=transparent&background=transparent&hide_border=true&ring=1f3a5f&fire=E11D48&currStreakNum=1f3a5f&sideNums=475569&currStreakLabel=1f3a5f&sideLabels=64748b&dates=94a3b8" width="48%" alt="Sequência de contribuições" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoSilvaAmorim&theme=custom&bg_color=ffffff&color=475569&line=1f3a5f&point=3a5a80&area_color=9fc3e8&title_color=1f3a5f&hide_border=true" width="100%" alt="Gráfico de atividades" />
 </div>
 
 ## 📫 Contato
