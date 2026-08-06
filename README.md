@@ -1,17 +1,20 @@
+<!-- ANIMAÇÃO DE TOPO - HACKERSPACE -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Matrix Animation">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/examples/hacker-terminal.svg" width="100%" alt="Hackerspace Pixel Art">
 </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://img.shields.io/badge/Dinâmico-Ativo-9fc3e8?style=flat-square" alt="Dynamic Header">
+  </a>
+</p>
+<!-- FIM DA ANIMAÇÃO -->
 
+<!-- SEU CABEÇALHO PROFISSIONAL (JÁ EXISTENTE) -->
 <div align="center" style="background:#0f2233; border-radius:18px; padding:38px 22px 30px;">
   <p style="color:#ffffff; font-size:32px; font-weight:800; margin:0 0 6px;">Olá, eu sou o Thiago Amorim 👋</p>
   <p style="color:#9fc3e8; font-size:17px; font-weight:600; margin:0;">De Vendas Consultivas B2B para o Desenvolvimento de Software</p>
-  <p style="color:#c7d9ec; font-size:14px; margin:8px 0 0;">Analista e Desenvolvedor de Sistemas · <strong>Python · JavaScript · SQL · Power BI</strong></p>
-  <br>
-  <a href="https://www.linkedin.com/in/thiago-b-amorim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://github.com/ThiagoSilvaAmorim"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
-  <a href="mailto:t.bruno000@gmail.com"><img src="https://img.shields.io/badge/Email-1f3a5f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
-  <a href="https://wa.me/5511973990225"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-</div>
+  <p style="color:#c7d9ec; font-size:14px; margin:8px 0 0;">Analista e Desenvolvedor de Sistemas · <strong>Python · JavaScript · SQL · Power BI</strong> · n8n</p>
+... (continue com o restante do seu perfil)
 
 ## 🎯 Sobre mim
 
